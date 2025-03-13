@@ -128,10 +128,15 @@ Label	Class Name
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 🤝 Contributing
+
 Want to improve this project? Feel free to fork the repo and submit a pull request!
 
 Fork the repository
+
 Create a feature branch (git checkout -b feature-branch-name)
+
 Commit changes (git commit -m "Added new feature")
+
 Push to GitHub (git push origin feature-branch-name)
+
 Create a Pull Request
