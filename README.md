@@ -75,6 +75,7 @@ python main.py --epochs 50 --batch_size 128 --learning_rate 0.001
 🚀 GUI Navigation
 
 ![GUI](GUI_demo.png)
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📈 Model Performance & Evaluation
@@ -85,13 +86,15 @@ After training, accuracy and loss curves will be automatically saved in the outp
 
 ![Losses](epoch_100.png)
 
+
 ✅ Sample Predictions on Test Images
 
 Below is an example of the model's predictions on CIFAR-10 test images:
 
 ![Model Prediction](inference_demo.png)
 
-CIFAR-10 Predictions
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 📊 CIFAR-10 Dataset
 
@@ -118,6 +121,8 @@ Label	Class Name
 8	Ship 🚢
 
 9	Truck 🚚
+
+![CIFAR10 Dataset](CIFAR10_samples.png)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------
 
