@@ -72,7 +72,8 @@ python main.py --epochs 50 --batch_size 128 --learning_rate 0.001
 (Modify epochs, batch_size, and learning_rate as needed.)
 ```
 
-🚀 GUI Navigation
+
+🚀 GUI for Simple Navigation
 
 ![GUI](GUI_demo.png)
 
